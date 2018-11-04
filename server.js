@@ -24,8 +24,7 @@ var pool = mysql.createPool({
 });
 
 //DB query
-var dbTable = "dogprofile.dog_info";
-var dbTable = "dog_info"
+var dbTable = "heroku_19fb5f19543b1e6.dog_info";
 var queryString = '';
 var handlebarObj = '';
 var myhandlebarObj = '';
