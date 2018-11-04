@@ -1,7 +1,5 @@
 # pups-at-play
 
-#### GitHub:  https://github.com/jinkkim/pups-at-play
-#### Heroku: https://pupsatplay.herokuapp.com/
 
 ## Summary
 
