@@ -17,10 +17,10 @@ var dialog = require('dialog');
 // Test Pool
 var pool = mysql.createPool({
    connectionLimit: 10,
-   host : 'us-cdbr-iron-east-04.cleardb.net',
-   user : 'b6633b71acf36b',
-   password: 'c8760750',
-   database: 'heroku_20540d41c0ab631'
+   host : 'us-cdbr-iron-east-01.cleardb.net',
+   user : 'b869824c96197b',
+   password: '4e116e61',
+   database: 'heroku_19fb5f19543b1e6'
 });
 
 //DB query
